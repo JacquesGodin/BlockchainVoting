@@ -1,8 +1,7 @@
 {
-    "functions": {
-      "node-bundler": {
-        "runtime": "nodejs14.x"
+    "build": {
+      "env": {
+        "NODE_VERSION": "14"
       }
     }
   }
-  
