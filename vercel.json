@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "node-bundler": {
+        "runtime": "nodejs14.x"
+      }
+    }
+  }
+  
