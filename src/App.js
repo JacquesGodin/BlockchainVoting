@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import React from 'react';
-import logo from './cover.png';
+import logo from './cover.jpeg';
 import ContractButtons from './ContractButtons';
 import contractABI from './contractABI.json';
 import "./App.css";
